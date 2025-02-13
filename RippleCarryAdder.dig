@@ -522,7 +522,7 @@
           </testData>
         </entry>
       </elementAttributes>
-      <pos x="760" y="-20"/>
+      <pos x="720" y="-40"/>
     </visualElement>
   </visualElements>
   <wires>

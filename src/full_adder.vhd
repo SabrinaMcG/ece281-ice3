@@ -16,7 +16,6 @@ end full_adder;
 architecture Behavioral of full_adder is
     
 begin
-
         S <= A XOR B XOR Cin;
         Cout <= (A AND B) OR (B AND Cin) OR (A AND Cin);
         
